@@ -15,7 +15,7 @@ app.layout = html.Div([
             dbc.NavLink('Page 3', href = '/page3', active = 'exact')
             
         ],
-        brand = 'Tai'
+        brand = 'Tai Chi'
     ),
     page_container
 ])
